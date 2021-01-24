@@ -1,3 +1,5 @@
 https://towardsdatascience.com/the-art-of-geofencing-in-python-e6cc237e172d
 
 https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972
+
+https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
