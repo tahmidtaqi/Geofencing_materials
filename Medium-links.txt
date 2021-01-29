@@ -6,6 +6,8 @@ https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-pytho
 
 https://www.youtube.com/watch?v=PuJ_JUkahXQ&feature=share&fbclid=IwAR0Zs0TiLcyOelguvurXLsaefKmOcdbFimU4gvr9oIz4gYFv7G31dmjEwVU
 
+https://ipyleaflet.readthedocs.io/en/latest/api_reference/geodata.html
+
 -- install geopandas--
 
 https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b
