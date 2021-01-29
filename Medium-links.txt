@@ -5,3 +5,7 @@ https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-l
 https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
 
 https://www.youtube.com/watch?v=PuJ_JUkahXQ&feature=share&fbclid=IwAR0Zs0TiLcyOelguvurXLsaefKmOcdbFimU4gvr9oIz4gYFv7G31dmjEwVU
+
+-- install geopandas--
+
+https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b
