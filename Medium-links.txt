@@ -11,3 +11,7 @@ https://ipyleaflet.readthedocs.io/en/latest/api_reference/geodata.html
 -- install geopandas--
 
 https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b
+
+--ipyleaflet tutorials--
+
+https://www.youtube.com/watch?v=wjzAy_yLrdA&feature=share&fbclid=IwAR0PcgWqNSgRKRsu8qiaMc_cprB_Ozt0aGLHJoHkzfi5w8vOUbF8hrZ0hJQ
