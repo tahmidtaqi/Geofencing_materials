@@ -15,3 +15,12 @@ https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-
 --ipyleaflet tutorials--
 
 https://www.youtube.com/watch?v=wjzAy_yLrdA&feature=share&fbclid=IwAR0PcgWqNSgRKRsu8qiaMc_cprB_Ozt0aGLHJoHkzfi5w8vOUbF8hrZ0hJQ
+
+--gmaps in jupyter documentation--
+
+https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html
+
+--gmap--
+https://morioh.com/p/a9bdee14b0d2
+
+https://medium.com/future-vision/google-maps-in-python-part-2-393f96196eaf
