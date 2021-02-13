@@ -29,3 +29,8 @@ https://medium.com/future-vision/google-maps-in-python-part-2-393f96196eaf
 --convert csv to json--
 
 https://vishalroygeek.medium.com/extracting-all-users-data-from-firebase-with-python-8af30700502
+
+
+
+--Providing predictive services/recommendation engine with Machine learning and geo-spatial data--
+https://nbviewer.jupyter.org/github/modqhx/geolocation_ml_Analysis/blob/master/Recommendation_Spatial_ML.ipynb
