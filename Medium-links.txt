@@ -34,3 +34,5 @@ https://vishalroygeek.medium.com/extracting-all-users-data-from-firebase-with-py
 
 --Providing predictive services/recommendation engine with Machine learning and geo-spatial data--
 https://nbviewer.jupyter.org/github/modqhx/geolocation_ml_Analysis/blob/master/Recommendation_Spatial_ML.ipynb
+
+https://github.com/emptyr1/geolocation_ml_Analysis
