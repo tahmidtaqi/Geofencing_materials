@@ -1,0 +1,4 @@
+https://blog.cambridgespark.com/managing-spatial-data-using-geopandas-in-python-8e70c646f708
+
+
+https://medium.com/@Cambridge_Spark
