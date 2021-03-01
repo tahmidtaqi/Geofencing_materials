@@ -9,3 +9,8 @@ https://medium.com/search?q=spatial%20data
 
 --Creating & Editing Geo-fences Using OpenStreetMap with the leaflet.js library in Angular 5 project--
 https://medium.com/@nnwabuokei/creating-editing-geo-fences-using-openstreetmap-with-the-leaflet-js-library-in-angular-5-project-44f0abbe2643
+
+
+
+--Customer Segmentation Analysis with Python--
+https://towardsdatascience.com/customer-segmentation-analysis-with-python-6afa16a38d9e
