@@ -14,3 +14,7 @@ https://medium.com/@nnwabuokei/creating-editing-geo-fences-using-openstreetmap-w
 
 --Customer Segmentation Analysis with Python--
 https://towardsdatascience.com/customer-segmentation-analysis-with-python-6afa16a38d9e
+
+--Customer Demographics & Segmentation Analysis with Simple Python--
+
+https://medium.com/analytics-vidhya/customer-demographics-segmentation-analysis-with-simple-python-cdd2e6d35f2e
