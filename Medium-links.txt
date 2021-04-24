@@ -38,3 +38,8 @@ https://nbviewer.jupyter.org/github/modqhx/geolocation_ml_Analysis/blob/master/R
 https://github.com/emptyr1/geolocation_ml_Analysis
 
 https://medium.com/@muppal/providing-predictive-geo-location-spatial-data-recommendation-services-6a62fd932056
+
+
+--Location-Based Recommendations--
+
+https://towardsdatascience.com/location-based-recommendations-bb70af7b1538
